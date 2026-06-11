@@ -1,0 +1,5 @@
+homepage: "https://github.com/digitalanalytix/openai-user-data"
+documentation: "https://developers.openai.com/ads/measurement-pixel"
+versions:
+  - sha:
+    changeNotes: "Initial release — builds and validates the OpenAI user data object with PII guard (invalid hashes dropped, never forwarded raw)."
